@@ -1,0 +1,4 @@
+{
+  "payload": "{\"format\":\"auto-mockup-release-v1\",\"app\":\"auto-mockup-windows\",\"platform\":\"win32-x64\",\"version\":\"1.8.2-win-preview.4\",\"url\":\"https://github.com/MSyaraff/Auto-Mockup-Releases/releases/download/v1.8.2-win-preview.4/Auto-Mockup-Setup.exe\",\"size\":113100477,\"sha256\":\"4691a0d4e829f8c01bb45d5ece19533982543ad064d1495936e455a669e1190f\",\"notes\":\"Online updater: semak versi, download dengan progress, semak tandatangan dan fail sebelum kemas kini app + plugin AI. Keluaran Windows percubaan; pengujian Adobe sebenar masih diperlukan.\",\"publishedAt\":\"2026-10-29T03:26:55.329Z\"}",
+  "signature": "PylyPf6SBvx8cAXMuddYo7aEI9DmKuFuDY2NSjW6Axi1zvU0IO7VCD0Uo8L6maRRAoYTs//LbftZcZNd3GDKDg=="
+}
