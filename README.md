@@ -1,9 +1,12 @@
 # Auto Mockup — SOLO CREATIVE
 
-Installer Windows dan maklumat kemas kini rasmi Auto Mockup.
+Versi 2.0.0: app, panel Illustrator, installer dan updater online.
 
-Download `Auto-Mockup-Setup.exe` daripada **Releases**. Selepas pemasangan pertama, tekan **Update** dalam app untuk semak dan muat turun keluaran baharu. App serta panel Illustrator dikemas kini bersama, dengan backup dan tetapan lama dikekalkan.
+- [Installer Mac](https://github.com/MSyaraff/Auto-Mockup-Releases/releases/download/v2.0.0/Auto-Mockup-Mac.zip) — unzip, kemudian jalankan Pasang Auto Mockup. macOS 13+, Apple Silicon / Intel.
+- [Installer Windows](https://github.com/MSyaraff/Auto-Mockup-Releases/releases/download/v2.0.0/Auto-Mockup-Setup.exe) — Windows 10/11 x64.
 
-**Keluaran Windows ini masih percubaan.** Sasaran Illustrator dan Photoshop 2020 ke atas; operasi pada Windows/Adobe sebenar dan keserasian setiap keluaran belum disahkan. Adobe tidak disertakan. Fail artwork pelanggan dan kunci tandatangan peribadi tidak diterbitkan.
+Simpan kerja dan tutup Illustrator serta Auto Mockup sebelum memasang. Installer memasang app bersama panel Illustrator. Koleksi dan kedudukan lama dikekalkan. Selepas pemasangan pertama, tekan **Update** dalam app untuk keluaran seterusnya.
 
-Maklumat update ditandatangani; app menyemak tandatangan serta SHA-256 fail sebelum membuka installer. Ini berasingan daripada sijil penerbit Windows; Windows code-signing belum disediakan.
+Keluaran percubaan: app Mac dan proses kemas kini diuji. Operasi sebenar pada Windows, Intel dan setiap versi Adobe masih memerlukan pengujian. Sasaran Illustrator/Photoshop 2020 ke atas; Adobe tidak disertakan.
+
+Maklumat update ditandatangani dan fail disemak dengan SHA-256 sebelum installer dibuka. Ini berasingan daripada sijil penerbit Apple/Microsoft yang belum disediakan. Artwork pelanggan dan kunci peribadi tidak diterbitkan.
