@@ -1,9 +1,9 @@
 # Auto Mockup — SOLO CREATIVE
 
-Versi 2.0.0: app, panel Illustrator, installer dan updater online.
+Versi 2.1.0 menambah badan depan dan belakang Muslimah dengan lengan panjang dan logo yang dikongsi. Pakej ini mengandungi app, panel Illustrator, installer dan updater online.
 
-- [Installer Mac](https://github.com/MSyaraff/Auto-Mockup-Releases/releases/download/v2.0.0/Auto-Mockup-Mac.zip) — unzip, kemudian jalankan Pasang Auto Mockup. macOS 13+, Apple Silicon / Intel.
-- [Installer Windows](https://github.com/MSyaraff/Auto-Mockup-Releases/releases/download/v2.0.0/Auto-Mockup-Setup.exe) — Windows 10/11 x64.
+- [Installer Mac](https://github.com/MSyaraff/Auto-Mockup-Releases/releases/download/v2.1.0/Auto-Mockup-Mac.zip) — unzip, kemudian jalankan Pasang Auto Mockup. macOS 13+, Apple Silicon / Intel.
+- [Installer Windows](https://github.com/MSyaraff/Auto-Mockup-Releases/releases/download/v2.1.0/Auto-Mockup-Setup.exe) — Windows 10/11 x64.
 
 Simpan kerja dan tutup Illustrator serta Auto Mockup sebelum memasang. Installer memasang app bersama panel Illustrator. Koleksi dan kedudukan lama dikekalkan. Selepas pemasangan pertama, tekan **Update** dalam app untuk keluaran seterusnya.
 
