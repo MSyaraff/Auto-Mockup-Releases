@@ -1,4 +1,4 @@
 {
-  "payload": "{\"format\":\"auto-mockup-release-v1\",\"app\":\"auto-mockup-windows\",\"platform\":\"win32-x64\",\"version\":\"2.0.0\",\"url\":\"https://github.com/MSyaraff/Auto-Mockup-Releases/releases/download/v2.0.0/Auto-Mockup-Setup.exe\",\"size\":113192812,\"sha256\":\"200b04509d2437742f7720a172ba0528d864c4920af2102f00f3e34d5f3c1dc1\",\"notes\":\"Online updater: semak versi, download dengan progress, semak tandatangan dan fail sebelum kemas kini app + plugin AI. Keluaran Windows percubaan; pengujian Adobe sebenar masih diperlukan.\",\"publishedAt\":\"2026-10-30T00:11:47.877Z\"}",
-  "signature": "TruB1nwMOg5/9BEm9ibbYKSKoPuyT2GYbUCVt8BLSyW/KPcXbxJz6cPeVp5iYYmh3Mm8olOYYrBlyDYobjZ+AQ=="
+  "payload": "{\"format\":\"auto-mockup-release-v1\",\"app\":\"auto-mockup-windows\",\"platform\":\"win32-x64\",\"version\":\"2.1.0\",\"url\":\"https://github.com/MSyaraff/Auto-Mockup-Releases/releases/download/v2.1.0/Auto-Mockup-Setup.exe\",\"size\":113116694,\"sha256\":\"5934d4b8a8e4ff6c15e29b71fd7409107da53969f51ea95f87c7dda8f2507d85\",\"notes\":\"Pilihan Muslimah dalam Illustrator dan Auto Mockup. Set dua badan labuh dan kongsi lengan panjang serta logo dalam job yang sama.\",\"publishedAt\":\"2026-11-06T07:41:16.984Z\"}",
+  "signature": "/aKZ+3rpMuxBdE5+ZFj7Euvu5zpHDsLz31w/r+dPYvG+HeesZaU9aT85lPRh1q3OLoBHpL2J5ArizqhZu+EvCA=="
 }
